@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1S3wDcdaGyxkGm+CziSuRcD3mtEoYkaQMifFj5S225dPk1jrSaXf50RRpCksLjR8thm1TH4XsrO6V2poIWHFvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gytim\\source\\repos\\CGS\\CGS_Part1\\CGS_Part1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gytim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\gytim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\gytim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gytim\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

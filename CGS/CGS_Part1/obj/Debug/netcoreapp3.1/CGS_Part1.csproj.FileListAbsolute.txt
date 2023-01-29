@@ -1,0 +1,24 @@
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT\CGS_Part1\bin\Debug\netcoreapp3.1\CGS_Part1.exe
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT\CGS_Part1\bin\Debug\netcoreapp3.1\CGS_Part1.deps.json
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT\CGS_Part1\bin\Debug\netcoreapp3.1\CGS_Part1.runtimeconfig.json
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT\CGS_Part1\bin\Debug\netcoreapp3.1\CGS_Part1.runtimeconfig.dev.json
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT\CGS_Part1\bin\Debug\netcoreapp3.1\CGS_Part1.dll
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT\CGS_Part1\bin\Debug\netcoreapp3.1\CGS_Part1.pdb
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT\CGS_Part1\obj\Debug\netcoreapp3.1\CGS_Part1.csproj.AssemblyReference.cache
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT\CGS_Part1\obj\Debug\netcoreapp3.1\CGS_Part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT\CGS_Part1\obj\Debug\netcoreapp3.1\CGS_Part1.AssemblyInfoInputs.cache
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT\CGS_Part1\obj\Debug\netcoreapp3.1\CGS_Part1.AssemblyInfo.cs
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT\CGS_Part1\obj\Debug\netcoreapp3.1\CGS_Part1.csproj.CoreCompileInputs.cache
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT\CGS_Part1\obj\Debug\netcoreapp3.1\CGS_Part1.dll
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT\CGS_Part1\obj\Debug\netcoreapp3.1\CGS_Part1.pdb
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT\CGS_Part1\obj\Debug\netcoreapp3.1\CGS_Part1.genruntimeconfig.cache
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Part1\bin\Debug\netcoreapp3.1\CGS_Part1.deps.json
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Part1\bin\Debug\netcoreapp3.1\CGS_Part1.dll
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Part1\bin\Debug\netcoreapp3.1\CGS_Part1.pdb
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Part1\obj\Debug\netcoreapp3.1\CGS_Part1.csproj.AssemblyReference.cache
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Part1\obj\Debug\netcoreapp3.1\CGS_Part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Part1\obj\Debug\netcoreapp3.1\CGS_Part1.AssemblyInfoInputs.cache
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Part1\obj\Debug\netcoreapp3.1\CGS_Part1.AssemblyInfo.cs
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Part1\obj\Debug\netcoreapp3.1\CGS_Part1.csproj.CoreCompileInputs.cache
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Part1\obj\Debug\netcoreapp3.1\CGS_Part1.dll
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Part1\obj\Debug\netcoreapp3.1\CGS_Part1.pdb

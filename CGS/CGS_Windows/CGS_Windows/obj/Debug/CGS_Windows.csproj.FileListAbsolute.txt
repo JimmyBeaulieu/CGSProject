@@ -1,0 +1,32 @@
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Windows\CGS_Windows\bin\Debug\CGS_Windows.exe.config
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Windows\CGS_Windows\bin\Debug\CGS_Windows.exe
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Windows\CGS_Windows\bin\Debug\CGS_Windows.pdb
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.csproj.AssemblyReference.cache
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.Login.resources
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.mainForm.resources
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.Properties.Resources.resources
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.csproj.GenerateResource.cache
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.csproj.CoreCompileInputs.cache
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.csproj.CopyComplete
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.exe
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.pdb
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Windows\CGS_Windows\bin\Debug\CGS_DLL.dll
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Windows\CGS_Windows\bin\Debug\CGS_DLL.pdb
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.SellForm.resources
+C:\Users\gytim\source\repos\CGS\CGS_Windows\CGS_Windows\bin\Debug\CGS_Windows.exe.config
+C:\Users\gytim\source\repos\CGS\CGS_Windows\CGS_Windows\bin\Debug\CGS_Windows.exe
+C:\Users\gytim\source\repos\CGS\CGS_Windows\CGS_Windows\bin\Debug\CGS_Windows.pdb
+C:\Users\gytim\source\repos\CGS\CGS_Windows\CGS_Windows\bin\Debug\CGS_DLL.dll
+C:\Users\gytim\source\repos\CGS\CGS_Windows\CGS_Windows\bin\Debug\CGS_DLL.pdb
+C:\Users\gytim\source\repos\CGS\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.csproj.AssemblyReference.cache
+C:\Users\gytim\source\repos\CGS\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\gytim\source\repos\CGS\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.Login.resources
+C:\Users\gytim\source\repos\CGS\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.mainForm.resources
+C:\Users\gytim\source\repos\CGS\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.Properties.Resources.resources
+C:\Users\gytim\source\repos\CGS\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.SellForm.resources
+C:\Users\gytim\source\repos\CGS\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.csproj.GenerateResource.cache
+C:\Users\gytim\source\repos\CGS\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.csproj.CoreCompileInputs.cache
+C:\Users\gytim\source\repos\CGS\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.csproj.CopyComplete
+C:\Users\gytim\source\repos\CGS\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.exe
+C:\Users\gytim\source\repos\CGS\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.pdb

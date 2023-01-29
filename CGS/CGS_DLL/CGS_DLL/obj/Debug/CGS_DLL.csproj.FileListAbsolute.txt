@@ -1,0 +1,12 @@
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_DLL\CGS_DLL\bin\Debug\CGS_DLL.dll
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_DLL\CGS_DLL\bin\Debug\CGS_DLL.pdb
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_DLL\CGS_DLL\obj\Debug\CGS_DLL.csproj.AssemblyReference.cache
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_DLL\CGS_DLL\obj\Debug\CGS_DLL.csproj.CoreCompileInputs.cache
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_DLL\CGS_DLL\obj\Debug\CGS_DLL.dll
+C:\Users\bob2a\Desktop\COLLEGE LASALLE\3. FALL 2022\MULTI-TIER APPLICATIONS DEVELOPMENT C#\CGS_DLL\CGS_DLL\obj\Debug\CGS_DLL.pdb
+C:\Users\gytim\source\repos\CGS\CGS_DLL\CGS_DLL\bin\Debug\CGS_DLL.dll
+C:\Users\gytim\source\repos\CGS\CGS_DLL\CGS_DLL\bin\Debug\CGS_DLL.pdb
+C:\Users\gytim\source\repos\CGS\CGS_DLL\CGS_DLL\obj\Debug\CGS_DLL.csproj.AssemblyReference.cache
+C:\Users\gytim\source\repos\CGS\CGS_DLL\CGS_DLL\obj\Debug\CGS_DLL.csproj.CoreCompileInputs.cache
+C:\Users\gytim\source\repos\CGS\CGS_DLL\CGS_DLL\obj\Debug\CGS_DLL.dll
+C:\Users\gytim\source\repos\CGS\CGS_DLL\CGS_DLL\obj\Debug\CGS_DLL.pdb
